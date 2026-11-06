@@ -1,0 +1,4 @@
+regulation_id,title,clause,jurisdiction,effective_date,source_id
+REG-DEMO-LABEL,DEMO: Mandatory labelling (allergen / additive class / nutrition),DEMO-L1,DEMO,,SRC-DEMO-LABEL
+REG-DEMO-ADDITIVE,DEMO: Permitted food additives and maximum levels,DEMO-A1,DEMO,,SRC-DEMO-ADDITIVE
+REG-DEMO-CLAIM,DEMO: Conditions for nutrition and composition claims,DEMO-C1,DEMO,,SRC-DEMO-CLAIM

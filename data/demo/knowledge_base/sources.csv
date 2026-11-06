@@ -1,0 +1,7 @@
+source_id,authority,document_title,clause,url,version_date,accessed_date
+SRC-DEMO-LABEL,DEMO DATA (illustrative - replace with official authority),Demo labelling rule set,DEMO-L1,,,
+SRC-DEMO-ADDITIVE,DEMO DATA (illustrative - replace with official authority),Demo food additive list,DEMO-A1,,,
+SRC-DEMO-CLAIM,DEMO DATA (illustrative - replace with official authority),Demo nutrition/health claim rules,DEMO-C1,,,
+SRC-DEMO-NUTRITION,DEMO DATA (illustrative dietary guideline),Demo nutrient thresholds,DEMO-N1,,,
+SRC-DEMO-ALLERGEN,DEMO DATA (illustrative),Demo allergen derivative table,DEMO-G1,,,
+SRC-DEMO-INTERACT,DEMO DATA (illustrative),Demo ingredient interaction notes,DEMO-I1,,,

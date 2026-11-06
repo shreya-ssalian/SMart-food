@@ -1,0 +1,17 @@
+ingredient_id,allergen_id,relation,source_id
+milk,milk,contains,SRC-DEMO-ALLERGEN
+milk_product,milk,contains,SRC-DEMO-ALLERGEN
+butter,milk,contains,SRC-DEMO-ALLERGEN
+egg,egg,contains,SRC-DEMO-ALLERGEN
+egg_product,egg,contains,SRC-DEMO-ALLERGEN
+peanut,peanut,contains,SRC-DEMO-ALLERGEN
+peanut_oil,peanut,may_contain,SRC-DEMO-ALLERGEN
+tree_nut_ingredient,tree_nut,contains,SRC-DEMO-ALLERGEN
+soy,soy,contains,SRC-DEMO-ALLERGEN
+soy_lecithin,soy,contains,SRC-DEMO-ALLERGEN
+ins_322,soy,may_contain,SRC-DEMO-ALLERGEN
+gluten_source,gluten,contains,SRC-DEMO-ALLERGEN
+fish,fish,contains,SRC-DEMO-ALLERGEN
+shrimp,crustacean,contains,SRC-DEMO-ALLERGEN
+sesame,sesame,contains,SRC-DEMO-ALLERGEN
+ins_220,sulphite,contains,SRC-DEMO-ALLERGEN

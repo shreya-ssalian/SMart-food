@@ -1,0 +1,4 @@
+rule_id,category_id,requirement,condition,source_id
+LR-ALLERGEN,,declare_allergens,,SRC-DEMO-LABEL
+LR-NUTRITION,,nutrition_info_present,,SRC-DEMO-LABEL
+LR-ADDFUNC,,declare_additive_function,,SRC-DEMO-LABEL

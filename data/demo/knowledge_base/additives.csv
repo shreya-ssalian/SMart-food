@@ -1,0 +1,16 @@
+additive_id,canonical_name,ins_code,function,source_id
+ins_102,Tartrazine,102,colour,SRC-DEMO-ADDITIVE
+ins_110,Sunset yellow FCF,110,colour,SRC-DEMO-ADDITIVE
+ins_150d,Caramel IV (sulphite ammonia caramel),150d,colour,SRC-DEMO-ADDITIVE
+ins_200,Sorbic acid,200,preservative,SRC-DEMO-ADDITIVE
+ins_202,Potassium sorbate,202,preservative,SRC-DEMO-ADDITIVE
+ins_211,Sodium benzoate,211,preservative,SRC-DEMO-ADDITIVE
+ins_220,Sulphur dioxide,220,preservative,SRC-DEMO-ADDITIVE
+ins_250,Sodium nitrite,250,preservative,SRC-DEMO-ADDITIVE
+ins_300,Ascorbic acid,300,antioxidant,SRC-DEMO-ADDITIVE
+ins_322,Lecithin,322,emulsifier,SRC-DEMO-ADDITIVE
+ins_330,Citric acid,330,acidity_regulator,SRC-DEMO-ADDITIVE
+ins_407,Carrageenan,407,thickener,SRC-DEMO-ADDITIVE
+ins_471,Mono- and diglycerides of fatty acids,471,emulsifier,SRC-DEMO-ADDITIVE
+ins_621,Monosodium glutamate,621,flavour_enhancer,SRC-DEMO-ADDITIVE
+ins_951,Aspartame,951,sweetener,SRC-DEMO-ADDITIVE

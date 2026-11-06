@@ -1,0 +1,66 @@
+alias,canonical_id,source_id
+maida,wheat_flour,SRC-DEMO-ALLERGEN
+refined wheat flour,wheat_flour,SRC-DEMO-ALLERGEN
+all purpose flour,wheat_flour,SRC-DEMO-ALLERGEN
+skim milk powder,skimmed_milk_powder,SRC-DEMO-ALLERGEN
+milk solids,milk_powder,SRC-DEMO-ALLERGEN
+soya lecithin,soy_lecithin,SRC-DEMO-ALLERGEN
+soy lecithin,soy_lecithin,SRC-DEMO-ALLERGEN
+soya,soy,SRC-DEMO-ALLERGEN
+soybean,soy,SRC-DEMO-ALLERGEN
+groundnut,peanut,SRC-DEMO-ALLERGEN
+groundnuts,peanut,SRC-DEMO-ALLERGEN
+cashew,cashew,SRC-DEMO-ALLERGEN
+cashew nut,cashew,SRC-DEMO-ALLERGEN
+badam,almond,SRC-DEMO-ALLERGEN
+common salt,salt,SRC-DEMO-ALLERGEN
+iodised salt,salt,SRC-DEMO-ALLERGEN
+cane sugar,sugar,SRC-DEMO-ALLERGEN
+sucrose,sugar,SRC-DEMO-ALLERGEN
+corn syrup,glucose_syrup,SRC-DEMO-ALLERGEN
+hfcs,high_fructose_corn_syrup,SRC-DEMO-ALLERGEN
+msg,ins_621,SRC-DEMO-ADDITIVE
+vitamin c,ins_300,SRC-DEMO-ADDITIVE
+mono and diglycerides,ins_471,SRC-DEMO-ADDITIVE
+vegetable fat,vegetable_oil,SRC-DEMO-ALLERGEN
+edible vegetable oil,vegetable_oil,SRC-DEMO-ALLERGEN
+cocoa powder,cocoa,SRC-DEMO-ALLERGEN
+wheat,gluten,SRC-DEMO-ALLERGEN
+barley,gluten,SRC-DEMO-ALLERGEN
+rye,gluten,SRC-DEMO-ALLERGEN
+cereals containing gluten,gluten,SRC-DEMO-ALLERGEN
+nuts,tree_nut,SRC-DEMO-ALLERGEN
+tree nuts,tree_nut,SRC-DEMO-ALLERGEN
+tree nut,tree_nut,SRC-DEMO-ALLERGEN
+peanuts,peanut,SRC-DEMO-ALLERGEN
+eggs,egg,SRC-DEMO-ALLERGEN
+shellfish,crustacean,SRC-DEMO-ALLERGEN
+sulfite,sulphite,SRC-DEMO-ALLERGEN
+sulfites,sulphite,SRC-DEMO-ALLERGEN
+sulphites,sulphite,SRC-DEMO-ALLERGEN
+sugar free,sugar_free,SRC-DEMO-CLAIM
+sugarfree,sugar_free,SRC-DEMO-CLAIM
+no added sugar,no_added_sugar,SRC-DEMO-CLAIM
+no added sugars,no_added_sugar,SRC-DEMO-CLAIM
+no sugar added,no_added_sugar,SRC-DEMO-CLAIM
+no preservatives,no_preservatives,SRC-DEMO-CLAIM
+preservative free,no_preservatives,SRC-DEMO-CLAIM
+no added colour,no_added_colour,SRC-DEMO-CLAIM
+no artificial colours,no_added_colour,SRC-DEMO-CLAIM
+dairy free,dairy_free,SRC-DEMO-CLAIM
+gluten free,gluten_free,SRC-DEMO-CLAIM
+vegan,vegan,SRC-DEMO-CLAIM
+low fat,low_fat,SRC-DEMO-CLAIM
+low sodium,low_sodium,SRC-DEMO-CLAIM
+high fibre,high_fibre,SRC-DEMO-CLAIM
+high fiber,high_fibre,SRC-DEMO-CLAIM
+source of fibre,high_fibre,SRC-DEMO-CLAIM
+water,water,SRC-DEMO-ALLERGEN
+pork,pork,SRC-DEMO-ALLERGEN
+oats,oats,SRC-DEMO-ALLERGEN
+maize,maize,SRC-DEMO-ALLERGEN
+rice flour,rice_flour,SRC-DEMO-ALLERGEN
+vitamins,vitamins,SRC-DEMO-ALLERGEN
+cocoa butter,cocoa_butter,SRC-DEMO-ALLERGEN
+spices,spices,SRC-DEMO-ALLERGEN
+chocolate,chocolate,SRC-DEMO-ALLERGEN

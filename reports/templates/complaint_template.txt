@@ -1,0 +1,38 @@
+FOOD SAFETY COMPLAINT REPORT  (DRAFT - review before submitting)
+=================================================================
+Date prepared : $date
+Addressed to  : $authority
+Reference     : $reference
+
+1. COMPLAINANT
+   Name    : $complainant_name
+   Contact : $complainant_contact
+
+2. PRODUCT
+   Name / ID        : $product_name
+   Category         : $category
+   Brand / retailer : $brand
+   Batch / lot no.  : $batch
+   Best before      : $best_before
+   Place & date of purchase : $purchase_info
+
+3. LABEL AS TRANSCRIBED
+   Ingredients : $ingredients
+   Nutrition   : $nutrition
+   Claims      : $claims
+
+4. POTENTIAL REGULATORY CONCERNS
+$concerns
+
+5. METHOD
+   The label text was analysed by SmartFood AI, a knowledge-based system using
+   first-order-logic rules, forward chaining and backward chaining over a
+   knowledge base ($kb_description). Each concern above is backed by an
+   explicit proof (Annex A).
+
+6. LIMITATIONS
+$limitations
+
+ANNEX A - REASONING TRACES
+$annex
+=================================================================

@@ -1,0 +1,10 @@
+test_id,product_id,ingredients_text,category_id,nutrition_text,claims,allergy_profile
+T01,Demo Orange Soft Drink,"Water, Sugar, Acidity regulator (330), Preservative (INS 211), Antioxidant (Ascorbic acid), Colour (Tartrazine), Flavour",soft_drinks,"Per 100 ml: Energy 45 kcal, Sugars 11 g, Sodium 15 mg",no added sugar,
+T02,Demo Chocolate Wafer,"Wheat flour, Sugar, Palm oil, Skimmed milk powder, Cocoa powder, Emulsifier (Soy lecithin), Salt",biscuits,"Per 100 g: Energy 520 kcal, Fat 27 g, Saturated fat 12 g, Sugars 32 g, Protein 6 g, Sodium 120 mg",,milk
+T03,Demo Infant Cereal,"Rice flour, Milk powder, Sugar, Colour (INS 102), Vitamins",infant_food,"Per 100 g: Energy 400 kcal, Fat 5 g, Sugars 18 g, Sodium 80 mg",,
+T04,Demo Fruit Nut Bar,"Oats, Glucose syrup, Honey, Almonds, Salt. Contains: tree nuts",snack_bars,"Per 100 g: Energy 400 kcal, Fat 14 g, Sugars 28 g, Fibre 3 g, Protein 8 g, Sodium 90 mg","sugar free, high fibre",
+T05,Demo Plain Biscuit,"Wheat flour, Sugar, Vegetable oil, Salt, Raising agent (500). Contains: wheat",biscuits,"Per 100 g: Energy 450 kcal, Fat 15 g, Saturated fat 3 g, Sugars 20 g, Sodium 300 mg",,
+T06,Demo Instant Noodles,"Wheat flour, Palm oil, Salt, Flavour enhancer (INS 621), Spices, Acidity regulator (330)",snacks,"Per serving (75 g): Energy 340 kcal, Fat 14 g, Saturated fat 7 g, Sodium 1100 mg",,
+T07,Demo Mystery Snack,"Maize, Natural flavour, Spice extract, Colour (150d)",,,,
+T08,Demo Sausage,"Pork, Water, Salt, Preservative (INS 250 - 200 mg/kg)",meat_products,"Per 100 g: Energy 250 kcal, Fat 20 g, Saturated fat 7 g, Sodium 900 mg",,
+T09,Demo Peanut Spread,"Peanuts, Sugar, Salt, Emulsifier (322)",snacks,"Per 100 g: Energy 590 kcal, Fat 50 g, Saturated fat 10 g, Sugars 8 g, Sodium 300 mg",,peanut;soy

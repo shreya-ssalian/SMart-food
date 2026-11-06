@@ -1,0 +1,10 @@
+rule_id,nutrient,operator,threshold,unit,basis,condition,source_id
+NR-SODIUM-HIGH,sodium,>,600,mg,per_100g,,SRC-DEMO-NUTRITION
+NR-SUGAR-HIGH,sugars,>,22.5,g,per_100g,,SRC-DEMO-NUTRITION
+NR-SATFAT-HIGH,saturated_fat,>,5,g,per_100g,,SRC-DEMO-NUTRITION
+NR-TRANS-HIGH,trans_fat,>,0.5,g,per_100g,,SRC-DEMO-NUTRITION
+NR-BEV-SUGAR,sugars,>,5,g,per_100g,category=beverages,SRC-DEMO-NUTRITION
+NR-CLAIM-SUGARFREE,sugars,>,0.5,g,per_100g,claim=sugar_free,SRC-DEMO-CLAIM
+NR-CLAIM-LOWFAT,fat,>,3,g,per_100g,claim=low_fat,SRC-DEMO-CLAIM
+NR-CLAIM-LOWSODIUM,sodium,>,120,mg,per_100g,claim=low_sodium,SRC-DEMO-CLAIM
+NR-CLAIM-HIGHFIBRE,fibre,<,6,g,per_100g,claim=high_fibre,SRC-DEMO-CLAIM

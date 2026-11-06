@@ -1,0 +1,11 @@
+category_id,name,parent_category_id,source_id
+beverages,Beverages,,SRC-DEMO-ADDITIVE
+soft_drinks,Soft drinks,beverages,SRC-DEMO-ADDITIVE
+bakery,Bakery products,,SRC-DEMO-ADDITIVE
+biscuits,Biscuits and wafers,bakery,SRC-DEMO-ADDITIVE
+infant_food,Infant and young child food,,SRC-DEMO-ADDITIVE
+meat_products,Processed meat products,,SRC-DEMO-ADDITIVE
+snacks,Savoury snacks and instant noodles,,SRC-DEMO-ADDITIVE
+snack_bars,Snack and cereal bars,,SRC-DEMO-ADDITIVE
+dairy,Dairy products,,SRC-DEMO-ADDITIVE
+confectionery,Confectionery,,SRC-DEMO-ADDITIVE

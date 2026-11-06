@@ -1,0 +1,11 @@
+allergen_id,name,source_id
+milk,Milk,SRC-DEMO-ALLERGEN
+egg,Egg,SRC-DEMO-ALLERGEN
+peanut,Peanut,SRC-DEMO-ALLERGEN
+tree_nut,Tree nuts,SRC-DEMO-ALLERGEN
+soy,Soy,SRC-DEMO-ALLERGEN
+gluten,Cereals containing gluten,SRC-DEMO-ALLERGEN
+fish,Fish,SRC-DEMO-ALLERGEN
+crustacean,Crustaceans,SRC-DEMO-ALLERGEN
+sesame,Sesame,SRC-DEMO-ALLERGEN
+sulphite,Sulphites,SRC-DEMO-ALLERGEN
